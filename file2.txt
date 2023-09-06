@@ -1,2 +1,5 @@
 file 2 will be created
-pushing this file to github
+pushing this file to github using 
+  1."git add "filename""
+  2."git commit -m "commit message"
+  3."git push origin "branch name"
